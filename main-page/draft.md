@@ -50,7 +50,7 @@
 3. [승우아빠 - 인플루언서란](https://desarraigado.tistory.com/138)
 (진행 중)
 
-### 유튜브 이슈
+#### 유튜브 이슈
 1. [가짜뉴스 - 유튜브와 확증편향성](https://desarraigado.tistory.com/100)
 (문장 다이어트, 우파의 알고리즘 편향 논문 데이터 추가)
 2. [보겸 - 유튜버와 구독자 간의 유사인간관계](https://desarraigado.tistory.com/108)
