@@ -57,6 +57,7 @@
 (유튜브 채널 데이터 보강, 유사인간관계 엮어 가조쿠 설명)
 3. [사나고 - 유튜브 알고리즘과 참조틀](https://desarraigado.tistory.com/133)
 (알고리즘 논문 내용 보강, 참조틀 벡터 내용 추가)
+4. [유튜브 프리미엄과 구독 시스템](https://desarraigado.tistory.com/82)
 
 #### 유튜브 스토리
 1. [이연 - 가볍고 작은 시작의 기술](https://desarraigado.tistory.com/102)
