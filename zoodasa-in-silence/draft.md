@@ -1,6 +1,6 @@
 ## 스트리머가 말을 하지 않는 이유 (with 주다사 플레이리스트)
 
-![Thumbnail]()<br>
+![Thumbnail](./images/thumbnail.gif)<br>
 주다사(인스타그램 @zoodasa)
 
 닉네임: 주다사<br>
@@ -36,60 +36,60 @@
 ***
 #### 1. Painkiller - Ruel
 
-![img](https://blog.kakaocdn.net/dn/b3NOMN/btqD3HCozA7/XXQrHQpCNFQ7qr2t8Y8UVK/img.gif)
+![painkiller-ruel](./images/painkiller-ruel.gif)
 
 미소년 Ruel의 Painkiller.
 신나고 밝은 분위기의 노래와 그로테스크한 뮤비가 자아내는 대조가 인상적이다.
 점점 약에 중독되는 내용을 
 주다사는 행복하게 부른다.
 
-![img](https://blog.kakaocdn.net/dn/cSDhdA/btqD6ldQDwq/6pN6sg2lhkD3oOIGqnb5h0/img.png)
+![playlist-comment1](./images/playlist-comment1.png)!
 
 #### 2. Maniac - Conan Gray
 
-![img](https://blog.kakaocdn.net/dn/bYtmC5/btqD6QSbgMr/PUh3vWROszmQ1LRHCgxsk0/img.gif)
+![maniac-conan-gray](./images/maniac-conan-gray.gif)
 
 집착+스토커+회피형의 여자친구에 대해 말하는 노래다.
 'You Maniac 너 또라이야'
 싸이코패스의 이율배반적인 매력이 주다사와 잘 어울린다.
 
-![img](https://blog.kakaocdn.net/dn/2Nltu/btqD4y6gfiq/xUjQUMvSaSouPsLIqEv4Yk/img.png)
+![](./images/playlist-comment2.png)
 
 #### 3. Wham Bam Shang-A-Lang - Silver
 
-![img](https://blog.kakaocdn.net/dn/ckIKOF/btqD53EwlFr/Kvleh1dKvyqPzkfjKILDX1/img.gif)
+![wham-bam-a-shang-lang-silver](./images/wham-bam-a-shang-lang-silver.gif)
 
 왕밤빵을 열심히 날리는 주다사.
 노래의 가사도 노답 연인에게 사이다 펀치를 날리는 내용이다.
 왕밤빵랑라랄라라
 
-![img](https://blog.kakaocdn.net/dn/btu7lI/btqD55CiCiF/ETohpQvxxy6sdxCY0TODm0/img.png)
+![img](./images/playlist-comment3.png)
 
 #### 4. Mine - Bazzi
 
-![img](https://blog.kakaocdn.net/dn/x0BAt/btqD6RDAumz/IdBNRKaeAKV0otWwhjSAvk/img.gif)
+![mine-bazzi](./images/mine-bazzi.gif)
 
 이 노래 진짜 좋다말이지... 밪지?
 Bazzi의 I got you 도 정말 좋다.
 
-![img](https://blog.kakaocdn.net/dn/bfBM9T/btqD5IABHol/JP6WTOrP3pzrrSltsz4CqK/img.png)
+![img](./images/playlist-comment4.png)
 
 #### 5. Watermelon Sugar - Harry Styles
 
-![img](https://blog.kakaocdn.net/dn/dgTUgg/btqD2HbO06E/yM0Ks06WpcA9l1mjAy1DDk/img.gif)
+![watermelon-sugar-harry-styles](./images/watermelon-sugar-harry-styles.gif)
 
 노래의 가사인 Watermelon sugar high는 어떻게 번역해야 할까
 수박이 달아서 뿅간다?
 
-![img](https://blog.kakaocdn.net/dn/dJb19L/btqD2GRvitR/JxK2VqSdUK1lui1DrIibrk/img.png)
+![img](./images/playlist-comment5.png)
 
-*위 움짤은 주다사의 팬 채널인 [#ff9999]()님의 편집 영상으로 제작됐습니다.
+*위 움짤은 주다사의 팬 채널인 [#ff9999](https://www.youtube.com/channel/UCsma_FeX4bH63-wWe0cOGxA/)님의 편집 영상으로 제작됐습니다.
 
 ***
 
 ### 03. 주다사가 말을 하지 않는 이유
 
-![빨간약과 파란약]()
+![빨간약과 파란약](./images/red-and-blue-pills.png)
 
 **방송에서 밝힌 바로 주다사는 자신의 목소리가 초등학생처럼 앳되서 말을 하지 않는다고 한다.**
 말도 잘 못하기도 하고 특별한 이유도 없고 '그냥' 싫으니까 말을 하지 않는다.
@@ -111,7 +111,7 @@ Bazzi의 I got you 도 정말 좋다.
 이들에게 그녀의 행복은 파란약이다.
 고통스럽고 두려운 현실에서 도피하여 꿈으로 도망갈 수 있는 방법이다.
 
-![주다사의 Ruel - Painkiller 영상의 1위 댓글]()
+![주다사의 Ruel - Painkiller 영상의 1위 댓글](./images/comment.png)
 
 반대로 빨간약을 택한 사람에게 현실은 고통이다. 이를 인정하고 마주해야만 한다.
 빨간약을 택한 사람들은  파란약을 원하는 사람을 한심하게 본다.
@@ -129,7 +129,7 @@ Bazzi의 I got you 도 정말 좋다.
 그리고 자신이 더 불행하다고 느낄 때 분노 또는 좌절을 느낀다.
 그래서 고작 21살의 소녀가 노래를 따라 부르며 즐거워하는 것을 보며 삶을 비난하거나 우울해한다.
 
-![대댓글]() 
+![대댓글](./images/re-comment-group.png) 
 
 모두가 그녀의 행복에 대해 왈가왈부하는 동안, **주다사는 이에 대해 신경쓰지도 않는다.**
 그저 노래를 따라 부르며 행복해할 뿐이다.
@@ -152,7 +152,7 @@ Bazzi의 I got you 도 정말 좋다.
 행복을 허락받아야 하는 사회다.
 그러나 허락받은 행복, 누구나 바라는 행복은 정작 나를 행복하게 만들지 못한다.
 
-![LiktIt]()
+![LiktIt](./images/likeit.png)
 
 **현대인에게 행복은 진통제(painkiller)다.**
 고통에 질식당하는 세계에서 어떻게든 삶을 이어가게 해 줄 약이다.
