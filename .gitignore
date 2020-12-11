@@ -2,3 +2,6 @@
 
 # ignore keynote file
 *.key
+
+# draft_a file
+draft_a.md
