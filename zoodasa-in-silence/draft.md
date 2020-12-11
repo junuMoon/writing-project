@@ -1,31 +1,21 @@
 ## 스트리머가 말을 하지 않는 이유 (with 주다사 플레이리스트)
 
-'[주다사 플레이리스트'](https://desarraigado.tistory.com/119)가 유행이다.
+'주다사 플레이리스트'가 유행이다.
 트위치의 스트리머 주다사가 팝송을 따라부르는 영상이 인기를 끈 탓이다.
 예쁜 얼굴, 말을 하지 않는 독특한 컨셉 등의 요소는 그녀의 인기를 설명하기에 충분하지 않다.
 주다사가 보여주는 원초적 행복이야말로 '주다사 플레이리스트'를 인기 검색어로 만든 핵심이다.
 어린아이처럼 행복해보이는 그녀를 바라보는 시선은 이중적이다.
 부러워하면서도 냉담하다
 
-![img](https://blog.kakaocdn.net/dn/tE7zg/btqDSzSLYUI/qCkxx6zqrY4sArtI93ANzk/img.gif)
+![]()<br>주다사(인스타그램 @zoodasa)
 
-주다사(인스타그램 @zoodasa)
+닉네임: 주다사<br>
+나이: 21세 (1998년 8월 3 3일)<br>
+혈액형: B<br>
+주 콘텐츠: 음악<br>
+별명: 주사장, 주렁이<br>
 
-
-
-닉네임: 주다사
-나이: 21세 (1998년 8월 3 3일)
-혈액형: B
-주 콘텐츠: 음악
-별명: 주사장, 주렁이
-
-
-
-[![img](https://blog.kakaocdn.net/dn/Lnew3/btqDUSX9MZd/GgDRatGip3IRmkHBTSUwgK/img.png)](https://www.twitch.tv/zoodasa)
-
-
-
-
+![]()
 
 ### 01. 말을 하지 않는 스트리머  
 스트리머 주다사는 말을 하지 않는다.
@@ -42,11 +32,9 @@
 어떻게 저렇게 순수하게 행복해할 수 있을까 하며 호기심이 든다.
 
 ### 02. 주다사가 좋아하는 것들  
-#### 1) 노래  
-
-
-
-![img](https://blog.kakaocdn.net/dn/s88zK/btqDWtwSkkO/kUNrYonkpSvb9Q3oQUGnHK/img.gif)유튜브에서 조회수 400만을 넘은 기록한 주다사의 Ruel - Painkiller
+#### 1. 노래  
+![img]()<br>
+유튜브에서 조회수 400만을 넘은 기록한 주다사의 Ruel - Painkiller
 
 크리피한 장난감이 가득한 어질러진 방에서 떡진 머리에 입술 피어싱을 단 주다사가 노래를 틀고 입모양으로 따라부른다.
 사이버펑크, 히키코모리, 변종 아싸, 오타쿠의 이미지가 혼재되어 있다.
@@ -57,10 +45,9 @@
 따로 노래만 들으면 이 세기말 감성이 살지 않기에 유튜브에 팬채널이 생겼다.
 그녀가 따라부른 노래를 모은 주다사 플레이리스트가 따로 있을 정도다.
 
-#### 02. 고양이 두부
+#### 2. 고양이 두부
 
-![img](https://blog.kakaocdn.net/dn/mDN1v/btqDXuPyQT8/fLo1jnWNJ43S7trFtGEBzK/img.gif)
-
+![img]()<br>
 주다사의 고양이 두부
 
 주다사가 키우는 고양이 두부다.
@@ -73,9 +60,9 @@
 특히 영화 그것(IT)에서 에디 카스브렉에 남다른 애정을 표한다.
 자신이 좋아하는 것이면 족족 수집한다.
 
-#### 3) 코파기
+#### 3. 코파기
 
-![img](https://blog.kakaocdn.net/dn/bX6T09/btqDWUA1Hzn/zUg23KvASdqESU9wxEAXcK/img.gif)
+![img]()
 
 보통 방송인이라면 안 할 행동을 스스럼없이 하는 편이다.
 코를 후비는 모습은 흔하게 볼 수 있으며 씹던 음식물을 보여준 적도 있다.
@@ -89,7 +76,7 @@
 
 ### 03. 주다사가 말을 하지 않는 이유
 
-![img](https://blog.kakaocdn.net/dn/by9tgv/btqDURS7fUu/RzxSPrQYqIM8TMOfjHOh21/img.png)빨간약과 파란약
+![빨간약과 파란약]()
 
 방송에서 밝힌 바로는 주다사는 자신의 목소리가 초등학생처럼 앳되서 말을 하지 않는다고 한다.
 말도 잘 못하기도 하고.
@@ -102,11 +89,11 @@
 이들에게 그녀의 행복은 파란약이다.
 고통스럽고 두려운 현실에서 도피하여 꿈으로 도망갈 수 있는 길이다.
 
-![img](https://blog.kakaocdn.net/dn/beR5F0/btqDURMcJJu/vTD6vpxUZMYKg7zqO1eAV0/img.png)주다사의 Ruel - Painkiller 영상의 1위 댓글
+![주다사의 Ruel - Painkiller 영상의 1위 댓글]()
 
 반대로 빨간약을 택한 사람에게 현실은 고통이고 이를 마주해야만 한다고 생각한다.
 이들은 파란약을 원하는 사람을 한심하게 본다.
-저렇게 [히키코모리](https://desarraigado.tistory.com/128?category=781095)처럼 사는 건 사회의 민폐라고 말한다.
+저렇게 [히키코모리](https://desarraigado.tistory.com/128)처럼 사는 건 사회의 민폐라고 말한다.
 이들의 눈에 주다사는 책임을 지지 않는 방종이다.
 방구석에서 나가지 않고 혼자 좋아하는 것만 누린다.
 아무 스트레스 없이 자기만의 세계에서 행복을 느끼는 그녀는 이질적이다.
@@ -119,11 +106,7 @@
 그리고 자신이 더 불행하다고 느낄 때 분노 또는 좌절을 느낀다.
 그래서 고작 21살의 소녀가 노래를 따라 부르며 즐거워하는 것을 보며 삶을 비난하거나 우울해한다.
 
-![img](https://blog.kakaocdn.net/dn/bRAqCY/btqDWsrfsh9/aeKSqHxtvhYCAAAUrinz6K/img.png)![img](https://blog.kakaocdn.net/dn/RAdpL/btqDURlgWGp/HnG4TUtU7lkbaBWK8GGEnK/img.png)
-
-![img](https://blog.kakaocdn.net/dn/vlZtI/btqDVvaT6cq/7Gvy4WdJjU9VB8xngmmjNk/img.png)
-
-![img](https://blog.kakaocdn.net/dn/HtNGg/btqDVd9pk0I/6G2abqEOmnuGFhKOjIadX1/img.png)위의 댓글에 달린 대댓글들
+![대댓글]() 
 
 모두가 그녀의 행복에 대해 왈가왈부하는 동안, 주다사는 이에 대해 신경쓰지도 않는다.
 그저 노래를 따라 부르며 행복해할 뿐이다.
@@ -144,7 +127,7 @@
 행복을 허락받아야 하는 사회다.
 그러나 허락받은 행복, 누구나 바라는 행복은 정작 나를 행복하게 만들지 못한다.
 
-![img](https://blog.kakaocdn.net/dn/dkp94V/btqDXtDBbxF/RcvW6m6xKu9ZHbgbGUzgSK/img.png)
+![LiktIt]()
 
 현대인에게 행복은 진통제(painkiller)다.
 고통에 질식당하는 세계에서 어떻게든 삶을 이어가게 해 줄 약이다.
